@@ -583,13 +583,3 @@ theme_override_colors/font_color = Color(0.0980392, 0.313726, 0.752941, 1)
 theme_override_fonts/font = ExtResource("7_x7dg6")
 theme_override_font_sizes/font_size = 8
 text = "Great job!"
-
-[node name="Label5" type="Label" parent="Labels"]
-offset_left = 94.0
-offset_top = -65.0
-offset_right = 269.0
-offset_bottom = -52.0
-theme_override_colors/font_color = Color(0.0980392, 0.313726, 0.752941, 1)
-theme_override_fonts/font = ExtResource("7_x7dg6")
-theme_override_font_sizes/font_size = 8
-text = "Jump mid-air to double jump"
